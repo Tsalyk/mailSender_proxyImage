@@ -1,0 +1,2 @@
+Happy birthday, %NAME%!
+You are already %AGE% years old, wish you all the best.
